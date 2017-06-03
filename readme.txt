@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is quick AND simple.
 add new message.
 solve a bug.
+
+This is master branch.
